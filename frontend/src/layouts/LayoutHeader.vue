@@ -8,7 +8,7 @@
             @click="closeMobileMenu"
             class="flex items-center"
           >
-            <img src="/logo-text.png" alt="LiveFit+" class="h-6 w-auto" />
+            <img src="/logo-text-v2.png" alt="LiveFit+" class="h-6 w-auto" />
             <span class="sr-only">LiveFit+</span>
           </router-link>
         </h1>
@@ -24,7 +24,7 @@
                 active-class="!font-bold !leading-[120%] !border-secondary-800 !text-primary-0"
                 >尋找教練</router-link
               >
-            </li>
+            </li>npm
             <li>
               <router-link
                 to="/fitness-plans"
